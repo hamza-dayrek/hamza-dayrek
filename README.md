@@ -1,4 +1,5 @@
 Hey there! 👋
+
 I'm Hamza, a full stack developer based in Morocco.
 I build web apps from scratch — back to front — and I actually enjoy both sides.
 If a project idea gets stuck in my head, I'll probably have a working prototype by the weekend.
@@ -12,4 +13,4 @@ I started a subscription reselling business before finishing my degree
 I have a thing for clean UIs and well-structured databases
 Hobbies: coding side projects, exploring SaaS ideas, figuring things out
 
-Portfolio · LinkedIn
+
