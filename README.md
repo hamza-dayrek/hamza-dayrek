@@ -6,7 +6,7 @@
   <p>Building scalable web applications from idea to deployment.</p>
 
   <p>
-    <a href="https://hamza.dayrek.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel" height="24"/></a>
+    <a href="https://dayrekhamza.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel" height="24"/></a>
     <a href="https://www.linkedin.com/in/hamza-dayrek/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" height="24"/></a>
   </p>
 </div>
